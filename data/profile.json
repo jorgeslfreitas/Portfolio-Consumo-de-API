@@ -9,43 +9,35 @@
     "linkedin": " https://www.linkedin.com/in/jorge-freitas-dev/ ",
     "github" : " https://github.com/jorgeslfreitas ",
     "curriculo": " https://drive.google.com/file/d/12ScMrkAIrOxvCZu-NiQDsUScmIPD1sSY/view?usp=sharing ",
-    "habilidades" : {
+    "skills" : {
       "hardSkills" : [
         {
           "nome" : " JavaScript " ,
           "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png "
         },
         {
-            "nome" : " NodeJS " ,
+            "nome" : " PHP " ,
             "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
-        },
-        {
-          "nome" : " TypeScript " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png "
-        },
-        {
-          "nome" : " PHP " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png "
         },
         {
           "nome" : " HTML " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png "
+          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png "
         },
         {
           "nome" : " CSS " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png "
+          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png "
         },
         {
           "nome" : " Angular " ,
+          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png "
+        },
+        {
+          "nome" : " MySql " ,
+          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png "
+        },
+        {
+          "nome" : " Git " ,
           "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
-        },
-        {
-            "nome" : " MySql " ,
-            "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
-        },
-        {
-            "nome" : " Git " ,
-            "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
         },
         {
             "nome" : " GitHub " ,
@@ -53,15 +45,18 @@
         }
       ],
       "softSkills" : [
-        " Empatia " ,
-        " Liderança " ,
-        " Trabalho em equipe " ,
-        " Flexibilidade " ,
-        " Organização "
+        " Comunicação " ,
+        " Mão na massa " ,
+        " Inteligência emocional " ,
+        " Aprendizado contínuo " ,
+        " Pensamento crítico ",
+        " Resiliência profissional ",
+        " Comprometimento ",
+        " Colaboração e trabalho em equipe "
       ]
     },
     "idiomas" : [
-      " Português BR " ,
+      " Português " ,
       " Inglês (básico) "
     ],
     "portfólio" : [
