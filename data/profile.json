@@ -12,36 +12,36 @@
     "skills" : {
       "hardSkills" : [
         {
-          "nome" : " JavaScript " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png "
+          "name" : " JavaScript " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/javascript.svg "
         },
         {
-            "nome" : " PHP " ,
-            "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
+          "name" : " PHP " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/php.svg "
         },
         {
-          "nome" : " HTML " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png "
+          "name" : " HTML " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/html.svg "
         },
         {
-          "nome" : " CSS " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png "
+          "name" : " CSS " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/css.svg "
         },
         {
-          "nome" : " Angular " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png "
+          "name" : " Angular " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/angular.svg "
         },
         {
-          "nome" : " MySql " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png "
+          "name" : " MySql " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/mysql.svg "
         },
         {
-          "nome" : " Git " ,
-          "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
+          "name" : " Git " ,
+          "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/git.svg "
         },
         {
-            "nome" : " GitHub " ,
-            "logo" : " https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png "
+            "name" : " GitHub " ,
+            "logo" : " https://raw.githubusercontent.com/jorgeslfreitas/Portfolio-Consumo-de-API/de2675c13c7064a06af5fad85704124134832103/assets/img/tecnologias-svg/github.svg "
         }
       ],
       "softSkills" : [
