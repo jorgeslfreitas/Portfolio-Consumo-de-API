@@ -78,19 +78,23 @@
     ],
     "experiences" : [
       {
-        "name" : " Arquiteto de software / S3 BANK " ,
-        "period" : " 2022 - até o momento " ,
-        "description" : " É um prazer trabalhar ao lado de tantos profissionais iniciados e construir tantas inovações de mercado. "
+        "name" : " Prime Consultoria - Ribeirão Preto " ,
+        "period" : " Janeiro/2023 à Março/2023 " ,
+        "office" : " Programador Júnior. ",
+        "description" : " Desenvolver aplicações e integrações para o sistema ERP Datasul TOTVS usando a linguagem Progress e framework DDK. Customização do sistema ERP para sistemas web usando HTML, Angular e framework PO UI TOTVS e TypeScript. "
       },
       {
-        "nome" : " Líder de Engenharia de Software / DIO " ,
-        "período" : " 2021 - 2022 " ,
-        "description" : " Foi um grande prazer fazer parte deste tempo fantástico e poder contribuir com a transformação de tantas vidas. "
+        "name" : " Automundi Tecnologia em áudio, vídeo e automação residencial - Ribeirão Preto " ,
+        "period" : " Junho/2013 à Janeiro/2023 " ,
+        "office" : " Analista de Sistemas de Automação Sênior. ",
+        "description" : " Responsável pelo setor de suporte desde 2018, com a tarefa de manter todos os sistemas já instalados pela empresa em pleno funcionamento. Atendimento ao cliente por chat, whatsapp ou telefone, visitas técnicas presenciais e responsável pelos agendamentos de visitas técnicas. Programação e configuração de automação em controladoras, integração de sistemas residenciais (iluminação, cortinas e venezianas, sensores de presença, sensores de iluminação, sensores de temperatura, medição de energia por toroides, ar condicionado, alarme, câmeras, áudio e vídeo em geral), criação de layouts para dispositivos móveis, montagem de quadros de automação (módulos relés, dimmers, fontes, controladoras, interfaces, sensores) CFTV, câmeras IP, equipamentos de áudio e vídeo, montagem e gerenciamento de redes cabeadas e wireless para automação. "
       },
       {
-        "nome" : " CEO / Brain Machine " ,
-        "período" : " 2016 - 2021 " ,
-        "description" : " Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo. "
+        "name" : " Infotec Assistência Técnica em Computadores - São Joaquim da Barra " ,
+        "period" : " Fevereiro/2012 à Junho/2013 " ,
+        "office" : " Técnico em Informática. ",
+        "description" : " Montagem e manutenção geral de desktops (hardware e software);  manutenções básicas em notebooks e impressoras; montagem e gerenciamento de redes cabeadas e wireless; configuração e manutenção  de redes comerciais (domínio e workgroups), instalação e configuração de aparelhos ativos (modem, roteadores e switchs). "
       }
+
     ]
   }

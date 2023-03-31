@@ -25,7 +25,7 @@
     margin-bottom: .5rem;
 }
 
-.projetos li h3 .github::before {
+.projetos li h3.github::before {
     content: '';
     display: inline-block;
     width: 1.25rem;
