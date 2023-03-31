@@ -77,7 +77,7 @@ function updateExperiences(profileData) {
             <p><strong>Principais atividades</strong>: ${experiences.description}</p>
         </li> 
         `
-    })
+    }).join('')
 }
 
 
