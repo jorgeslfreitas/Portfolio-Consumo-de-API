@@ -55,11 +55,11 @@
         " Colaboração e trabalho em equipe "
       ]
     },
-    "idiomas" : [
+    "languages" : [
       " Português " ,
       " Inglês (básico) "
     ],
-    "portfólio" : [
+    "portfolio" : [
       {
         "name" : " Curso Ministrado na DIO para a criação de uma Pokedex " ,
         "url" : " https://github.com/RenanJPaula/js-developer-pokedex " ,
@@ -71,7 +71,7 @@
         "github" : "verdadeiro"
       }
     ],
-    "experiência profissional" : [
+    "experiences" : [
       {
         "name" : " Arquiteto de software / S3 BANK " ,
         "period" : " 2022 - até o momento " ,
