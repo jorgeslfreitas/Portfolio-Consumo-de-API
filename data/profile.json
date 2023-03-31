@@ -59,16 +59,21 @@
       " Português " ,
       " Inglês (básico) "
     ],
-    "portfolio" : [
+    "projetos" : [
       {
-        "name" : " Curso Ministrado na DIO para a criação de uma Pokedex " ,
-        "url" : " https://github.com/RenanJPaula/js-developer-pokedex " ,
-        "github" : "verdadeiro"
+        "name" : " Doador RP " ,
+        "url" : " https://www.doadorrp.com.br " ,
+        "github" : true
       },
       {
-        "name" : " Curso Ministrado na DIO para a criação de uma página de portfolio " ,
-        "url" : " https://github.com/RenanJPaula/js-developer-portfolio " ,
-        "github" : "verdadeiro"
+        "name" : " Pokedex " ,
+        "url" : " https://jorgeslfreitas.github.io/Pokedex/ " ,
+        "github" : true
+      },
+      {
+        "name" : " Portfólio ",
+        "url" : " https://jorgeslfreitas.github.io/Portfolio/",
+        "github" : true
       }
     ],
     "experiences" : [
